@@ -12,3 +12,7 @@ The first step is to make sure you have the right tools in place. A simple Excel
 Omar has given you some backstory about the connection between V. Isualize and Matplotlib. Matplotlib was created as a Python alternative for MATLAB. MATLAB, which is short for matrix laboratory, was developed by the company MathWorks in the 1980s. It enabled scientists to perform linear algebra and numerical analysis without learning the programming language Fortran, which until then had been the best option for complex computations.
 
 With this information, you realize that the CEO is an expert in creating data visualizations. You definitely can't afford to botch this up!
+
+With Matplotlib set up and ready to go, it's time to explore what this program can do! Omar has suggested that you start with one of the most common charts: a line chart.
+
+Omar has also reminded you to comment on your code. This way, if he or the CEO wants to take a look at your repo, they'll know exactly what you're doing and whether you're heading in the right direction.
